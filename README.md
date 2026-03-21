@@ -1,59 +1,63 @@
-<h1 align="center">Hi 👋, I'm Srujan R</h1>
-
-<h3 align="center">Engineering Student | Aspiring Software Developer | Problem Solver</h3>
+<h1 align="center">👋 Hey there! I'm Srujan R</h1>
 
 <p align="center">
-  <i>🚀 Spring Boot Enthusiast</i>
+  💻 Aspiring Software Developer | 🎓 Engineering Student | 🚀 Problem Solver
+</p>
+
+<p align="center">
+  <b>🌟 Passionate about building real-world applications & learning backend development</b>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Engineering Student  
-- 💻 Aspiring Software Developer  
-- 🌱 Currently learning **Java Spring Boot**  
-- 🌐 Working on **Web Development Projects**  
-- 🧠 Practicing **DSA & Interview Preparation**  
-- 🎯 Goal: Become a skilled Software Engineer  
-- ✨ I love building real-world projects and improving problem-solving skills  
+## 👨‍💻 About Me
+
+✨ I'm an enthusiastic engineering student aiming to become a skilled software engineer.  
+💡 I enjoy solving problems and continuously improving my coding skills.
+
+- 🌱 Currently exploring **Java Spring Boot**
+- 🌐 Building **modern web applications**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🎯 Focused on **cracking internships & software roles**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Toolbox
 
-### 💻 Languages
-<p>
+### 🧩 Languages
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,mysql" />
 </p>
 
-### ⚙️ Frameworks & Tools
-<p>
+### 🛠️ Tools & Technologies
+<p align="center">
   <img src="https://skillicons.dev/icons?i=spring,git,github,vscode,idea" />
 </p>
 
 ---
 
-## 🌟 Current Focus
-- 🌐 Building responsive web applications  
-- ⚙️ Learning backend development with Spring Boot  
-- 📊 Strengthening Data Structures and Algorithms  
-- 🏆 Preparing for internships and software roles  
+## 🔥 What I'm Working On
+
+- 🚀 Developing responsive web apps  
+- ⚙️ Strengthening backend skills with Spring Boot  
+- 📈 Improving problem-solving with DSA  
+- 🎯 Preparing for tech interviews  
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srujanr0812/">
-    <img src="https://img.shields.io/badge/LinkedIn-Srujan%20R-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:srujanr0812@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  ✨ <i>“Keep learning, keep building, keep growing.”</i> ✨
 </p>
